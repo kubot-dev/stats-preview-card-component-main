@@ -1,0 +1,71 @@
+/* challenge styles */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0a0c1c;
+  height: 100vh;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+
+  font-family: 'Inter', sans-serif;
+}
+
+.hero_img {
+  mix-blend-mode: lighten;
+}
+
+.wrapper {
+  width: 327px;
+  height: 780px;
+  background-color: #1b1937;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+}
+
+.hero_img {
+  width: 100%;
+}
+
+.hero_heading {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+
+  text-align: center;
+  color: #ffffff;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 2rem;
+}
+
+.heading_emphasis {
+  color: #ab5cdb;
+}
+
+.hero_benefits {
+  color: #ffffff;
+  font-size: 0.9375rem;
+  line-height: 1.5625rem;
+  opacity: 0.75;
+  padding-inline: 2rem;
+  text-align: center;
+}
+
+.benefits_stats {
+  list-style: none;
+  color: #ffffff;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  display: inline-block;
+  color: white;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}

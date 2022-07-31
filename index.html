@@ -6,25 +6,30 @@
     <!-- displays site properly based on user's device -->
 
     <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="css/styles.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet"> 
 
     <title>Frontend Mentor | Stats preview card component</title>
   </head>
   <body>
     <div class="wrapper">
-      <img class="hero_img" src="/images/image-header-mobile.jpg"></img>
-      <h1 class="hero_heading">Get <span class="heading_emphasis">insights</span> that help your business grow.</h1>
+      <div class="img_placeholder"></div>
+      <h1 class="hero_heading">
+        Get <span class="heading_emphasis">insights</span> that help your business grow.
+      </h1>
       <p class="hero_benefits">
-        Discover the benefits of data analytics and make better decisions regarding revenue, customer
-        experience, and overall efficiency.
+        Discover the benefits of data analytics and make better decisions regarding revenue,
+        customer experience, and overall efficiency.
       </p>
       <ul class="benefits_stats">
-        <li>10k+ companies</li>
-        <li>314 templates</li>
-        <li>12m+ queries</li>
+        <li class="benefits_stats_item">10k+ <span class="stats_item_accent">companies</span></li>
+        <li class="benefits_stats_item">314 <span class="stats_item_accent">templates</span></li>
+        <li class="benefits_stats_item">12M+ <span class="stats_item_accent">queries</span></li>
       </ul>
     </div>
 

@@ -39,5 +39,5 @@ Learned to better prep next time. Took me too long for this simple page.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kubot-dev](https://www.frontendmentor.io/profile/kubot-dev)
 

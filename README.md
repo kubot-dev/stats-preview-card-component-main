@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-responsive-used-flex-and-grid-gFPi1BKVeY)
-- Live Site URL: [Add live site URL here](https://stats-preview-card-component-main-kubot-dev.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-responsive-used-flex-and-grid-gFPi1BKVeY]
+- Live Site URL: [https://stats-preview-card-component-main-kubot-dev.vercel.app/]
 
 ### Built with
 
